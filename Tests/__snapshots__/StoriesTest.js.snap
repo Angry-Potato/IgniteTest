@@ -1,0 +1,595 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots AlertMessage Custom Style 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "justifyContent": "center",
+        "marginVertical": 25,
+      },
+      Object {
+        "backgroundColor": "red",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#CCCCCC",
+          "fontFamily": "Avenir-Book",
+          "fontSize": 17,
+          "fontWeight": "bold",
+          "marginHorizontal": 10,
+          "marginTop": 10,
+          "textAlign": "center",
+        }
+      }
+    >
+      ALERT ALERT
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Storyshots AlertMessage Default 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "justifyContent": "center",
+        "marginVertical": 25,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "#CCCCCC",
+          "fontFamily": "Avenir-Book",
+          "fontSize": 17,
+          "fontWeight": "bold",
+          "marginHorizontal": 10,
+          "marginTop": 10,
+          "textAlign": "center",
+        }
+      }
+    >
+      ALERT ALERT
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Storyshots AlertMessage Hidden 1`] = `null`;
+
+exports[`Storyshots DrawerButton Default 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "color": "white",
+          "fontFamily": "Avenir-Book",
+          "fontSize": 20,
+          "marginVertical": 10,
+        }
+      }
+    >
+      Drawer Button
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Storyshots FullButton Custom Style 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "borderBottomColor": "#fb5f26",
+      "borderBottomWidth": 1,
+      "borderTopColor": "#e73536",
+      "borderTopWidth": 1,
+      "marginVertical": 5,
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Avenir-Black",
+        "fontSize": 14,
+        "margin": 18,
+        "textAlign": "center",
+      }
+    }
+  >
+    STYLE ME UP!
+  </Text>
+</View>
+`;
+
+exports[`Storyshots FullButton Default 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "rgba(164, 0, 48, 0.5)",
+      "borderBottomColor": "#fb5f26",
+      "borderBottomWidth": 1,
+      "borderTopColor": "#e73536",
+      "borderTopWidth": 1,
+      "marginVertical": 5,
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Avenir-Black",
+        "fontSize": 14,
+        "margin": 18,
+        "textAlign": "center",
+      }
+    }
+  >
+    A SIMPLE BUTTON
+  </Text>
+</View>
+`;
+
+exports[`Storyshots RoundedButton Default 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#e73536",
+      "borderRadius": 5,
+      "height": 45,
+      "justifyContent": "center",
+      "marginHorizontal": 25,
+      "marginVertical": 10,
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "marginVertical": 10,
+        "textAlign": "center",
+      }
+    }
+  >
+    A SIMPLE ROUNDED BUTTON
+  </Text>
+</View>
+`;
+
+exports[`Storyshots RoundedButton Text as children 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#e73536",
+      "borderRadius": 5,
+      "height": 45,
+      "justifyContent": "center",
+      "marginHorizontal": 25,
+      "marginVertical": 10,
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    disabled={false}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "marginVertical": 10,
+        "textAlign": "center",
+      }
+    }
+  >
+    HELLO FROM THE CHILDREN!
+  </Text>
+</View>
+`;
+
+exports[`Storyshots SearchBar Default 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "black",
+      "height": 50,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "rgba(0,0,0,0)",
+        "flex": 1,
+        "flexDirection": "row",
+        "marginTop": 5,
+        "width": 740,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 15,
+          },
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "color": "white",
+            "left": 20,
+          },
+          Object {
+            "fontFamily": "FontAwesome",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <TextInput
+      autoCapitalize="none"
+      autoCorrect={false}
+      autoFocus={true}
+      onChangeText={[Function]}
+      onSubmitEditing={[Function]}
+      placeholder="Search"
+      placeholderTextColor="white"
+      returnKeyType="search"
+      selectionColor="white"
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "white",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "color": "white",
+          "flex": 5,
+          "flexDirection": "row",
+          "fontFamily": "Avenir-Book",
+          "fontSize": undefined,
+          "height": 30,
+          "padding": 5,
+          "paddingLeft": 30,
+          "textAlign": "left",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value={undefined}
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontFamily": "Avenir-Book",
+            "fontSize": 17,
+          }
+        }
+      >
+        Cancel
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Storyshots SearchBar With Search Term 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "black",
+      "height": 50,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "rgba(0,0,0,0)",
+        "flex": 1,
+        "flexDirection": "row",
+        "marginTop": 5,
+        "width": 740,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 15,
+          },
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "color": "white",
+            "left": 20,
+          },
+          Object {
+            "fontFamily": "FontAwesome",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <TextInput
+      autoCapitalize="none"
+      autoCorrect={false}
+      autoFocus={true}
+      onChangeText={[Function]}
+      onSubmitEditing={[Function]}
+      placeholder="Search"
+      placeholderTextColor="white"
+      returnKeyType="search"
+      selectionColor="white"
+      style={
+        Object {
+          "alignSelf": "center",
+          "borderColor": "white",
+          "borderRadius": 5,
+          "borderWidth": 1,
+          "color": "white",
+          "flex": 5,
+          "flexDirection": "row",
+          "fontFamily": "Avenir-Book",
+          "fontSize": undefined,
+          "height": 30,
+          "padding": 5,
+          "paddingLeft": 30,
+          "textAlign": "left",
+        }
+      }
+      underlineColorAndroid="transparent"
+      value="HELLO!!"
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginHorizontal": 10,
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontFamily": "Avenir-Book",
+            "fontSize": 17,
+          }
+        }
+      >
+        Cancel
+      </Text>
+    </View>
+  </View>
+</View>
+`;
